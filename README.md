@@ -1,4 +1,6 @@
 # Health & Fitness Club Management System
+Sanidhya Khanna (101307214)
+Dhirran Pirabaharan (101244401)
 
 This repository contains our final project for **[COURSE CODE]** at **[UNIVERSITY]**.  
 We designed a **PostgreSQL** database and a **CLI-based application** to manage a health & fitness club, including:
